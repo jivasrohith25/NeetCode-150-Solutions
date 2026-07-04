@@ -4,22 +4,18 @@ This repository contains my Python solutions to the NeetCode 150 and LeetCode 15
 
 The goal is simple: keep every solution easy to find, easy to read, and easy to review later when preparing for interviews or revising problem-solving patterns.
 
-## Quick Access
+## Start Here
 
-Start here:
+Use the tracker below to jump straight to any question by difficulty and topic:
 
-| Problem | File | Topic |
-| --- | --- | --- |
-| Contains Duplicate | [ContainsDuplicate.py](ContainsDuplicate.py) | Arrays and Hashing |
-
-As more problems are added, this section will become the main index for the repo.
+- [Problem Tracker](TRACKER.md)
 
 ## What You’ll Find
 
 - Python solutions written in a LeetCode-friendly format
 - One file per problem for quick access
-- A growing index that makes it easy to jump directly to the question you need
-- Solutions organized by pattern, not just by problem number
+- A tracker that groups problems by difficulty and topic
+- A structure that makes it easy to jump directly to the question you need
 
 ## Why This Repo Exists
 
@@ -36,6 +32,7 @@ This repo is meant to:
 
 ## Current Structure
 
+- [TRACKER.md](TRACKER.md) - main problem index
 - [ContainsDuplicate.py](ContainsDuplicate.py) - first solution added to the repo
 
 ## Planned Organization
@@ -54,6 +51,3 @@ Future problems can be grouped by topic so they are easy to browse:
 - Graphs
 - Dynamic Programming
 
-## Notes
-
-If you want, I can turn this into a fuller problem tracker with numbered sections, difficulty tags, and a folder layout that matches the NeetCode roadmap.
